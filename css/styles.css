@@ -114,6 +114,14 @@ h3 {
     background-color: #F7F6F3;
 }
 
+.white h2 {
+    text-align: right;
+}
+
+.white p {
+    text-align: right;
+}
+
 .project {
     padding: 50px;
     margin: 30px 0;
